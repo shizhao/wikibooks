@@ -1,0 +1,20 @@
+{
+  "name": "Wikibooks",
+  "description": "Wikibooks, the open-content textbooks collection that anyone can edit.",
+  "version": "1",
+  "app": {
+    "urls": [
+      "http://*.wikibooks.org/"
+    ],
+    "launch": {
+      "web_url": "http://www.wikibooks.org/"
+    }
+  },
+  "icons": {
+    "128": "Wikibooks-logo.png"
+  },
+  "permissions": [
+    "unlimitedStorage",
+    "notifications"
+  ]
+}
